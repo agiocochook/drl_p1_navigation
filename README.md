@@ -4,14 +4,10 @@ Contains materials for project 1 of the Udacity Deep Reinforcement Learning Cour
 
 ## Project Details
 
-The table below contains information about the banana environment.
+* Action space size is 4, corresponding to forward/backward/left/right. The actions correspond to movement around the environment gathering bananas.
+* Observation space size is 37; 
 
-| --- | ----------- |
-| 1           |2
-| Header      | Title       |
-| Paragraph   | Text        |
-
-*  (i.e., the state and action spaces, and when the environment is considered solved).
+* the state and action spaces, and when the environment is considered solved).
 
 ## Getting Started
 
