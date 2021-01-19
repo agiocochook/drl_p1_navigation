@@ -7,6 +7,7 @@ Contains materials for project 1 of the Udacity Deep Reinforcement Learning Cour
 The table below contains information about the banana environment.
 
 | Syntax      | Description |
+| --- | ----------- |
 | 1           |2
 | Header      | Title       |
 | Paragraph   | Text        |
