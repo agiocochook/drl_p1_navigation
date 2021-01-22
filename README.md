@@ -65,7 +65,7 @@ QNetwork(<br />
 
 ## Getting Started
 
-The codebase is self contained in the notebook Navigation.ipynb, and all results are repeatable by running that notebook.
+The codebase is self contained in the notebook Report.ipynb, and all results are repeatable by running that notebook.
 
 ### Dependencies
 * unityagents
